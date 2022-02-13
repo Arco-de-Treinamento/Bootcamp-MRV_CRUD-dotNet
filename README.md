@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src= "https://github.com/JosManoel/Bootcamp-MRV_iFood-Clone/blob/main/assets/icon.png" width = "100"/>
+  <img src= "https://github.com/JosManoel/Bootcomp-MRV_CRUD-dotNet/blob/main/images/crud_logo.png" width = "300"/>
   
   <p align="center">
     <img src="https://img.shields.io/github/last-commit/JosManoel/Bootcomp-MRV_CRUD-dotNet">
